@@ -19,4 +19,4 @@
 ---
 
 ## Author
-* **EL ALAOUI Hamza** - [Robot-V2](https://github.com/Robot-V2)
+* **EL ALAOUI Hamza** - [Robot-V2](https://github.com/Elalaoui-hamza)
